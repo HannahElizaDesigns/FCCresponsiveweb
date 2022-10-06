@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<style>table, td, div, h1, p {
+            font-family: Arial, sans-serif;
+        }</style>
+<div lang="en" style="text-size-adjust: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; background-color: #92a1cf;" role="article" aria-roledescription="email">
+  <table style="width: 100%; border: none; border-spacing: 0;" role="presentation">
+    <tbody>
+      <tr>
+        <td style="padding: 0;" align="center"><!-- [if mso]>
+<table role="presentation" align="center" style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+          <table style="width: 94%; max-width: 600px; border: none; border-spacing: 0; text-align: left; font-family: Arial,sans-serif; font-size: 16px; line-height: 22px; color: #363636;" role="presentation">
+            <tbody>
+              <tr>
+                <td style="padding: 40px 30px 30px 30px; text-align: center; font-size: 24px; font-weight: bold;">
+                  <a href="https://marilyntaylormed.com/" style="text-decoration: none;">
+                    <img style="width: 600px; max-width: 80%; height: auto; border: none; text-decoration: none; color: #ffffff;" src="https://imageprocessor.digital.vistaprint.com/crop/1104,1556,7800x2112/maxWidth/1000/https://uploads.documents.cimpress.io/v1/uploads/a364ebb9-d6a5-4b4f-b006-34ec8a9febb4~110/original?tenant=vbu-digital" alt="Logo" width="165">
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 30px; background-color: #ffffff;">
+                  <h1 style="margin-top: 0; margin-bottom: 16px; font-size: 26px; line-height: 32px; font-weight: bold; letter-spacing: -0.02em;">New Job Opportunity!</h1>
+                  <!-- TemplateBeginEditable name="Job Posting" -->
+					<p style="margin: 0;">[INSERT JOB POSTING HERE] 
+				<!-- TemplateEndEditable -->
+                    <br>
+                    <br>
+                    <br>To browse other job openings, 
+                    <a href="https://marilyntaylormed.com/current-job-openings" style="color: #6574a1; text-decoration: underline;">visit our website</a>.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 5px 30px 10px 30px; font-size: 0; background-color: #ffffff; text-align: center; border-bottom: 1px solid #f0f0f5; border-color: rgba(201,201,207,.35);"><!-- [if mso]>
+<table role="presentation" width="100%">
+<tr>
+<td style="width:200px;" align="center" valign="top">
+<![endif]-->
+                  <div class="col-sml" style="display: inline-block; width: 100%; max-width: 200px; vertical-align: top; text-align: center; padding-bottom: 20px; font-family: Arial,sans-serif; font-size: 16px; line-height: 22p; color: #363636;">
+                    <p style="margin: 0;">
+                      <a href="https://forms.gle/S3d7QFxA55oqdLjR7" style="background: #6574a1; text-decoration: none; padding: 10px 25px 10px 25px; color: #ffffff; border-radius: 4px; display: inline-block; mso-padding-alt: 0; text-underline-color: #ff3884;"><!-- [if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:20pt">&nbsp;</i><![endif]--> 
+                        <span style="mso-text-raise: 10pt; font-weight: bold;">I'm Interested! (Apply)</span><!-- [if mso]><i style="letter-spacing: 25px;mso-font-width:-100%">&nbsp;</i><![endif]-->
+                      </a>
+                    </p>
+                  </div>
+<!-- [if mso]>
+</td>
+<td style="width:200px;padding-bottom:20px;" align="center" valign="top">
+<![endif]-->
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 30px; text-align: center; font-size: 12px; background-color: #92a1cf; color: #cccccc;">
+                  <p style="margin: 0 0 8px 0;">
+                    <a href="https://www.linkedin.com/company/marilyntaylormed/" style="text-decoration: none; color: #cccccc;">
+                      <u>LinkedIn</u> |
+                    </a> 
+                    <a href="https://twitter.com/mtmp4u" style="text-decoration: none; color: #cccccc;">
+                      <u>Twitter</u>
+                    </a> 
+                    <br>To unsubscribe from our mailing list, please reply and let us know, 
+                    <br>Or forward this to someone who 
+                    <em>is</em> looking for work in Los Angeles.
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+<!-- [if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+</html>
